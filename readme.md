@@ -25,4 +25,4 @@ _Note: it has something to do with something, though I don't know what it is._
 
 
 ### Link to Project
-[My Project Live Page]{www.myurl.com}
+[My Project Live Page]{https://projectone-sigma.vercel.app/}
