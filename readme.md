@@ -1,6 +1,6 @@
-# Motivational Quotes
+## Project 1: Motivational Quotes
 
-|Title|Motivational Quote Project|
+|Title|Motivational Quotes|
 |-|-|
 |Repo|https://github.com/NStodd/Project1|
 |Author|Nate Stoddard|
@@ -18,7 +18,7 @@ The site will display on both desktop and mobile, adjusting to either one.
 - HTML, CSS, & Javascript
 - Jquery & Ajax
 - APIs: api.goprogram.ai/inspiration/docs
-        wallhaven.cc/help/api
+        https://pixabay.com/api/docs/
 
 
 ##### Desktop Mockup
