@@ -4,10 +4,14 @@ const quote_req = $.ajax(quote_url)
 
 console.log(quote_req)
 
-const img_url = "https://wallhaven.cc/help/api/v1/w/"
-const img_id = "zxqkdy"
+const img_url = "https://pixabay.com/api/?"
+const img_api_key ="30787297-8988965d9b3903eaa7f0d16eb"
 
-const img_req = $.ajax(img_url + img_id)
+function buildImgUrl(base, api, term) {
+    const url = base + "key=" + api + "&q=" + term
+    return url
+}
+
+const img_req = $.ajax(buildImgUrl(img_url, img_api_key, "nature"))
 
 console.log(img_req)
-
