@@ -1,27 +1,27 @@
-# Motivational And Zen Quotes
+# Motivational Quotes
 
-My project will help users in their coding and work life by giving them a motivational and/or zen quote at command or at some chosen regular interval.
+My project will help users in their coding and work life by giving them a motivational quote with a nice background image.
 
 
 
 ### Technologies Used
 - HTML, CSS, & Javascript
-- Jquery
-- Ajax
-- 
+- Jquery & Ajax
+- APIs: api.goprogram.ai/inspiration/docs
+        wallhaven.cc/help/api
 
 
+![Some Text](https://i.imgur.com/Y5qpQVw.jpg>)
 
-
-![Some Text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.ubkEaryfdOKLzpatGzIoxQHaK6%26pid%3DApi&f=1&ipt=8910499d6c8608b0281676f21919fbe750eed17dee34a2c8ae6471b3d992aeca&ipo=images)
 
 ### Daily Plan
-| Day | Goal |
+| Day | Goals |
 |-----|------|
-|1|Field Quote from API1|
-|2|Render Quote screen|
-|3|Create Form|
-|4||
+|1|Field quote data and render to the screen|
+|2|Field image data and render to the screen|
+|3|Cycle quote/image or both through button presses|
+|4|Polish placement and source of quote|
+|5|Stretch Goal(?): Give user option of zen or motivational quote|
 
 
 ### Link to Project
