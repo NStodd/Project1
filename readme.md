@@ -8,7 +8,7 @@
 |Due|Saturday, 10/29/22|
 
 
-######Description
+###### Description
 My project will help users in their coding and work life by giving them a motivational quote with a nice background image.
 The user will be able to cycle the quote, the image or both.
 The site will display on both desktop and mobile, adjusting to either one.
