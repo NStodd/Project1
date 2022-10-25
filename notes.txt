@@ -1,0 +1,41 @@
+OOOOOOOOOOK.
+
+Where I'm At:
+- set up the initial pages -
+- set up version control in git hub w/ a repo -
+- set up an outward-facing page in vercel - 
+- got api calls and displayed the objects -
+
+
+Where I need to go next:
+- dig into the two api objects
+- get an image from pixabay to display (just in a normal image block).
+- get the quote from inspiration api to display in its own block.
+- hook up a listener to retrieve a random new image & refresh
+- hook up a listener to retrieve a random new quote & refresh
+- hook up a button to do both
+- credit pixabay somewhere
+- make it look nice on both desktop and mobile
+- refine the image search to make sure that it finds varied and good images
+
+
+
+Where to go from there:
+- format the page.
+     - option 1: make it look like one of those office motivation posters
+     - option 2: make the text appear over the image in some nice way
+     - option 3: like option 1 but with a title word.
+- show/hide the buttons to get new quotes
+- pull quotes from another api and let the user pick which type of quote they want
+- set an automatic refresh on either or both api element being displayed.
+- 
+
+
+
+
+#Reference#
+Responsive design:
+     HolyGrail (w4d1)
+     Dom-Menu-Lab (w3)
+API:
+     Weather App, etc... (w5)
