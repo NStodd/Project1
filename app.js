@@ -9,8 +9,13 @@ const motivation_object = {
     quote: "",
 }
 
-// put in variables to hold the DOM elements?
-
+// DOM ELEMENTS
+const $BODY = $('body')
+const $HEADER = $()
+const $IMG_DIV = $()
+const $QUOTE_DIV = $()
+const $BUTTON_DIV = $()
+const $FOOTER = $()
 
 // EVENT LISTENERS
 
