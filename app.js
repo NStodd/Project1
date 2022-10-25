@@ -9,8 +9,17 @@ const motivation_object = {
     quote: "",
 }
 
+// put in variables to hold the DOM elements?
+
 
 // EVENT LISTENERS
+
+// Need an event listener for the image button, will call changeImage()
+
+// Need an event listener for the quote button, will call changeQuote()
+
+// Need an event listener for the both button, will call both changeImage() and changeQuote()
+
 
 // FUNCTIONS
 
@@ -33,6 +42,15 @@ function buildImgUrl(base, api, term) {
                 // full list here: https://pixabay.com/api/docs/
     return url
 }
+
+
+// Need a function to change the image URL and paint it to the background.
+function changeImage () {}
+
+
+// Need a function to change the quote.
+function changeQuote () {}
+
 
 
 // EXECUTING CODE
