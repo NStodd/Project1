@@ -1,67 +1,29 @@
-Promise {<pending>}
-    [[Prototype]] : Promise
-    [[PromiseState]] : "fulfilled"
-    [[PromiseResult]] : Object
-        hits
-        : 
-        Array(20)
-        0
-        : 
-        {id: 736885, pageURL: 'https://pixabay.com/photos/tree-sunset-clouds-sky-silhouette-736885/', type: 'photo', tags: 'tree, sunset, clouds', previewURL: 'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_150.jpg', …}
-        1
-        : 
-        {id: 276014, pageURL: 'https://pixabay.com/photos/flowers-meadow-sunlight-summer-276014/', type: 'photo', tags: 'flowers, meadow, sunlight', previewURL: 'https://cdn.pixabay.com/photo/2014/02/27/16/10/flowers-276014_150.jpg', …}
-        2
-        : 
-        {id: 1072823, pageURL: 'https://pixabay.com/photos/road-forest-fall-autumn-season-1072823/', type: 'photo', tags: 'road, forest, fall', previewURL: 'https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823_150.jpg', …}
-        3
-        : 
-        {id: 815297, pageURL: 'https://pixabay.com/photos/avenue-trees-path-sunbeams-sunrays-815297/', type: 'photo', tags: 'avenue, trees, path', previewURL: 'https://cdn.pixabay.com/photo/2015/06/19/21/24/avenue-815297_150.jpg', …}
-        4
-        : 
-        {id: 1072821, pageURL: 'https://pixabay.com/photos/road-forest-fall-path-trail-trees-1072821/', type: 'photo', tags: 'road, forest, fall', previewURL: 'https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072821_150.jpg', …}
-        5
-        : 
-        {id: 324175, pageURL: 'https://pixabay.com/photos/pink-cherry-blossoms-flowers-branch-324175/', type: 'photo', tags: 'pink, cherry blossoms, flowers', previewURL: 'https://cdn.pixabay.com/photo/2014/04/14/20/11/pink-324175_150.jpg', …}
-        6
-        : 
-        {id: 2049567, pageURL: 'https://pixabay.com/photos/fantasy-butterflies-mushrooms-2049567/', type: 'photo', tags: 'fantasy, butterflies, mushrooms', previewURL: 'https://cdn.pixabay.com/photo/2017/02/08/17/24/fantasy-2049567_150.jpg', …}
-        7
-        : 
-        {id: 19830, pageURL: 'https://pixabay.com/photos/flowers-butterfly-19830/', type: 'photo', tags: 'flowers, butterfly, silver washed fritillary', previewURL: 'https://cdn.pixabay.com/photo/2012/03/01/00/55/flowers-19830_150.jpg', …}
-        8
-        : 
-        {id: 445228, pageURL: 'https://pixabay.com/photos/dandelion-seeds-dew-dewdrops-445228/', type: 'photo', tags: 'dandelion, seeds, dew', previewURL: 'https://cdn.pixabay.com/photo/2014/09/14/18/04/dandelion-445228_150.jpg', …}
-        9
-        : 
-        {id: 1373171, pageURL: 'https://pixabay.com/photos/sunset-tree-water-silhouette-1373171/', type: 'photo', tags: 'sunset, tree, water', previewURL: 'https://cdn.pixabay.com/photo/2016/05/05/02/37/sunset-1373171_150.jpg', …}
-        10
-        : 
-        {id: 190055, pageURL: 'https://pixabay.com/photos/mountains-sun-clouds-peak-summit-190055/', type: 'photo', tags: 'mountains, sun, clouds', previewURL: 'https://cdn.pixabay.com/photo/2013/10/02/23/03/mountains-190055_150.jpg', …}
-        11
-        : 
-        {id: 1127666, pageURL: 'https://pixabay.com/photos/butterflies-flowers-pollinate-1127666/', type: 'photo', tags: 'butterflies, flowers, pollinate', previewURL: 'https://cdn.pixabay.com/photo/2016/01/08/11/57/butterflies-1127666_150.jpg', …}
-        12
-        : 
-        {id: 1045954, pageURL: 'https://pixabay.com/photos/bird-fluttering-berries-wings-tit-1045954/', type: 'photo', tags: 'bird, fluttering, berries', previewURL: 'https://cdn.pixabay.com/photo/2015/11/16/16/28/bird-1045954_150.jpg', …}
-        13
-        : 
-        {id: 3082832, pageURL: 'https://pixabay.com/photos/nature-waters-lake-island-3082832/', type: 'photo', tags: 'nature, waters, lake', previewURL: 'https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_150.jpg', …}
-        14
-        : 
-        {id: 2031539, pageURL: 'https://pixabay.com/photos/mountain-landscape-steps-stones-2031539/', type: 'photo', tags: 'mountain landscape, steps, stones', previewURL: 'https://cdn.pixabay.com/photo/2017/02/01/22/02/mountain-landscape-2031539_150.jpg', …}
-        15
-        : 
-        {id: 832079, pageURL: 'https://pixabay.com/photos/tree-clouds-fields-grass-832079/', type: 'photo', tags: 'tree, clouds, fields', previewURL: 'https://cdn.pixabay.com/photo/2015/07/05/10/18/tree-832079_150.jpg', …}
-        16
-        : 
-        {id: 174276, pageURL: 'https://pixabay.com/photos/poppies-field-sunset-dusk-sunlight-174276/', type: 'photo', tags: 'poppies, field, sunset', previewURL: 'https://cdn.pixabay.com/photo/2013/08/20/15/47/poppies-174276_150.jpg', …}
-        17
-        : 
-        {id: 1072828, pageURL: 'https://pixabay.com/photos/forest-trees-sun-rays-sunlight-fog-1072828/', type: 'photo', tags: 'forest, trees, sun rays', previewURL: 'https://cdn.pixabay.com/photo/2015/12/01/20/28/forest-1072828_150.jpg', …}
-        18
-        : 
-        {id: 3325080, pageURL: 'https://pixabay.com/photos/sunset-dawn-nature-mountains-3325080/', type: 'photo', tags: 'sunset, dawn, nature', previewURL: 'https://cdn.pixabay.com/photo/2018/04/16/16/16/sunset-3325080_150.jpg', …}
-        19
-        : 
-        {id: 1412683, pageURL: 'https://pixabay.com/vectors/mountains-panorama-forest-mountain-1412683/', type: 'vector/svg', tags: 'mountains, panorama, forest', previewURL: 'https://cdn.pixabay.com/photo/2016/05/24/16/48/mountains-1412683_150.png', …}
+Below is a reference for the object returned from the pixabay api.
+
+total: (int)
+totalHits: (int)
+hits: Array(200)
+    [{  collections : 15
+        comments:4
+        downloads:30552
+        id:7525793
+        imageHeight:4640
+        imageSize:9499591
+        imageWidth:6960
+        largeImageURL: "https://pixabay.com/get/g6dbff2d55f4e070d5b2fd991c4b4186309a57c860256ded78c9c28f32a3826a38284a15253a99c445ee1ee5dabdaeb50408b2db2c06289ad24bb17b6ea833885_1280.jpg"
+        likes:52
+        pageURL:"https://pixabay.com/photos/flamingos-birds-nature-animals-7525793/"
+        previewHeight:100
+        previewURL: "https://cdn.pixabay.com/photo/2022/10/16/18/20/flamingos-7525793_150.jpg"
+        previewWidth:150
+        tags:"flamingos, birds, nature"
+        type:"photo"
+        user:"Wildphoto1"
+        userImageURL:"https://cdn.pixabay.com/user/2022/07/19/17-07-03-198_250x250.jpg"
+        user_id:28677814
+        views:32583
+        webformatHeight:427
+        webformatURL:"https://pixabay.com/get/g22fe87c3b0915bc50e8cf3cf2c79dad7a31c4ca91cc099614f49f3f2b0aa56054d92907431363ee6b27bfd01582ff52ae04c1b6d60582df7c5a3e7712ff1b33a_640.jpg"
+        webformatWidth:640
+    }, {...},{...},{...},{...},{...},...
+    ]

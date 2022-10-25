@@ -47,6 +47,8 @@ The site will display on both desktop and mobile, adjusting to either one.
 - Allow the user to set an interval by which the site will give them a new one automatically.
 - Allow the user to select an input that the quote and/or image will take into account when creating their motivational scene.
 - Allow the user to save or 'favorite' a quote/image combination.
+- Add a keyword/title to resemble the old posters.
+- 
 
 
 #### Formatting reference

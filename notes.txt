@@ -17,6 +17,7 @@ Where I need to go next:
 - credit pixabay somewhere
 - make it look nice on both desktop and mobile
 - refine the image search to make sure that it finds varied and good images
+-         use the other search criteria from pixabay: 
 
 
 
