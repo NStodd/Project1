@@ -6,13 +6,14 @@ const IMG_API_KEY = "30787297-8988965d9b3903eaa7f0d16eb"
 // WORKING ELEMENTS
 const motivation_object = {
     img : "",
+    img_desc : "",
     quote: "",
 }
 
 // DOM ELEMENTS
 const $BODY = $('body')
 const $HEADER = $()
-const $IMG_DIV = $()
+const $IMG_DIV = $() //<img>
 const $QUOTE_DIV = $()
 const $BUTTON_DIV = $()
 const $FOOTER = $()
@@ -50,11 +51,13 @@ function buildImgUrl(base, api, term) {
 
 
 // Need a function to change the image URL and paint it to the background.
-function changeImage () {}
+function changeImage () { // <img src="pic_trulli.jpg" alt="Italian Trulli">
+    $IMG_DIV.html = 
+}
 
 
 // Need a function to change the quote.
-function changeQuote () {}
+function changeQuote () {} //
 
 
 
