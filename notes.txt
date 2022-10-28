@@ -5,15 +5,16 @@ Where I'm At:
 - set up version control in git hub w/ a repo -
 - set up an outward-facing page in vercel - 
 - got api calls and displayed the objects -
-
+- dig into the two api objects -
+- get an image from pixabay to display (just in a normal image block). -
+- hook up a listener to retrieve a random new image & refresh -
 
 Where I need to go next:
-- dig into the two api objects
-- get an image from pixabay to display (just in a normal image block).
-- get the quote from inspiration api to display in its own block.
-- hook up a listener to retrieve a random new image & refresh
+- get the quote from inspiration api
+- display the quote
 - hook up a listener to retrieve a random new quote & refresh
 - hook up a button to do both
+
 - credit pixabay somewhere
 - make it look nice on both desktop and mobile
 - refine the image search to make sure that it finds varied and good images
@@ -42,4 +43,3 @@ Responsive design:
 API:
      Weather App, etc... (w5)
      movie.js
-     

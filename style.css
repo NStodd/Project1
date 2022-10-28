@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: antiquewhite;
+    text-align: center;
+}
+
+form {
+
+}
+
+img {
+    margin: 40px 0px 0px 0px;
+    border: 7px solid black;
+    border-radius: 20px;
+  }
+
+.quote_div {
+    color: aquamarine;
+}
