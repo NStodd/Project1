@@ -15,13 +15,26 @@
 <body>
     <h1>This is My Project 1</h1>
     <main>
-      <!-- need a button for changing the image -->
-      <!-- need a button for changing the quote -->
-      <!-- need a button for changing both the image and the quote -->
+      <form>
+        <!-- button for changing the quote, [id: New Quote] -->
+        <input type="button" id="New Quote" value="New Quote">
+
+        <!-- button for changing the image, [id: New Image] -->
+        <input type="button" id="New Image" value="New Image">
+
+        <!-- button for changing both the image and the quote, [id: New Combo] -->
+        <input type="button" id="New Combo" value="New Image & Quote">
+      </form>
 
       <!-- need an adaptable area to paint the image -->
+      <div class="img_div">
+        <img src="https://pixabay.com/get/gd0419d121f424787f01e999d92d363ff6b66d051d5d6b9857de0cda991100363e84fb5ba407329a51f74aa765b03fe908ee05e5b9ff878ed3e12fe701f5effac_1280.jpg" alt="">
+      </div>
 
       <!-- need a location/format/font for the quote -->
+      <div class="quote_div">
+        This is a quote
+      </div>
 
       <!-- need to be able to attribute Pixabay somewhere (see https://pixabay.com/api/docs/) -->
     </main>

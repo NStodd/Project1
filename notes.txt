@@ -29,6 +29,7 @@ Where to go from there:
 - show/hide the buttons to get new quotes
 - pull quotes from another api and let the user pick which type of quote they want
 - set an automatic refresh on either or both api element being displayed.
+- create a motivation_object Object.
 - 
 
 
@@ -40,3 +41,5 @@ Responsive design:
      Dom-Menu-Lab (w3)
 API:
      Weather App, etc... (w5)
+     movie.js
+     
