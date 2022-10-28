@@ -8,12 +8,19 @@ Where I'm At:
 - dig into the two api objects -
 - get an image from pixabay to display (just in a normal image block). -
 - hook up a listener to retrieve a random new image & refresh -
+- get the quote from inspiration api -
+- display the quote -
+- hook up a listener to retrieve a random new quote & refresh -
+- hook up a button to do both -
+
 
 Where I need to go next:
-- get the quote from inspiration api
-- display the quote
-- hook up a listener to retrieve a random new quote & refresh
-- hook up a button to do both
+- make sure I'm getting quote api data correctly
+- formatting the height/width
+- making responsive for mobile
+- formatting buttons
+- google font and font color
+- Heading?
 
 - credit pixabay somewhere
 - make it look nice on both desktop and mobile
