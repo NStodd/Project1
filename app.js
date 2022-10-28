@@ -39,7 +39,7 @@ $("#New_Quote").on("click", (event) => {
 })
 
 // Need an event listener for the both button, will call both changeImage() and changeQuote()
-$("New_Combo").on("click", (event) => {
+$("#New_Combo").on("click", (event) => {
     event.preventDefault()
     changeImage()
     changeQuote()

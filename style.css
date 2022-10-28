@@ -1,10 +1,28 @@
 body {
     background-color: black;
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 1.5rem;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    max-height: 500px;
+    max-width: 500px;
+    box-sizing: border-box;
+    display: grid;
+    grid-template-areas:
+    "one one one one one"
+    "two three three three four"
+    "two three three three four"
+    "two three three three four"
+    "two three three three four"
+    "two three three three four"
+    "five five five five five" ;
 }
 
 h1 {
     color: antiquewhite;
     text-align: center;
+    grid-area: one;
 }
 
 form {
@@ -15,8 +33,10 @@ img {
     margin: 40px 0px 0px 0px;
     border: 7px solid black;
     border-radius: 20px;
+    grid-area: three;
   }
 
 .quote_div {
     color: aquamarine;
+    grid-area: five;
 }
