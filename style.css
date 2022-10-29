@@ -4,6 +4,7 @@ html {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+    max-height: 100%;
 }
 
 
@@ -40,9 +41,10 @@ input:hover {
 }
 
 .img_div {
-    margin: 40px 0px 0px 0px;
+    margin: 20px;
     border: 7px solid black;
-    border-radius: 20px;   
+    border-radius: 20px;
+    padding: 25px;
   }
 
 .quote_div {
@@ -69,7 +71,7 @@ input:hover {
 img {
     margin-left: auto;
     margin-right: auto;
-    max-width: 100%;
+    max-width: 85%;
     max-height: 100%;
     align-self: baseline;
 }
