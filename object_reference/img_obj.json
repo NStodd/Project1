@@ -1,29 +1,27 @@
-Below is a reference for the object returned from the pixabay api.
-
-total: (int)
-totalHits: (int)
-hits: Array(200)
-    [{  collections : 15
-        comments:4
-        downloads:30552
-        id:7525793
-        imageHeight:4640
-        imageSize:9499591
-        imageWidth:6960
-        largeImageURL: "https://pixabay.com/get/g6dbff2d55f4e070d5b2fd991c4b4186309a57c860256ded78c9c28f32a3826a38284a15253a99c445ee1ee5dabdaeb50408b2db2c06289ad24bb17b6ea833885_1280.jpg"
-        likes:52
-        pageURL:"https://pixabay.com/photos/flamingos-birds-nature-animals-7525793/"
-        previewHeight:100
-        previewURL: "https://cdn.pixabay.com/photo/2022/10/16/18/20/flamingos-7525793_150.jpg"
-        previewWidth:150
-        tags:"flamingos, birds, nature"
-        type:"photo"
-        user:"Wildphoto1"
-        userImageURL:"https://cdn.pixabay.com/user/2022/07/19/17-07-03-198_250x250.jpg"
-        user_id:28677814
-        views:32583
-        webformatHeight:427
-        webformatURL:"https://pixabay.com/get/g22fe87c3b0915bc50e8cf3cf2c79dad7a31c4ca91cc099614f49f3f2b0aa56054d92907431363ee6b27bfd01582ff52ae04c1b6d60582df7c5a3e7712ff1b33a_640.jpg"
-        webformatWidth:640
-    }, {...},{...},{...},{...},{...},...
-    ]
+{"total": "(int)",
+"totalHits": "(int)",
+"hits": [
+    {  "collections" : 15,
+        "comments":4,
+        "downloads":30552,
+        "id":7525793,
+        "imageHeight":4640,
+        "imageSize":9499591,
+        "imageWidth":6960,
+        "largeImageURL": "https://pixabay.com/get/g6dbff2d55f4e070d5b2fd991c4b4186309a57c860256ded78c9c28f32a3826a38284a15253a99c445ee1ee5dabdaeb50408b2db2c06289ad24bb17b6ea833885_1280.jpg",
+        "likes":52,
+        "pageURL":"https://pixabay.com/photos/flamingos-birds-nature-animals-7525793/",
+        "previewHeight":100,
+        "previewURL": "https://cdn.pixabay.com/photo/2022/10/16/18/20/flamingos-7525793_150.jpg",
+        "previewWidth":150,
+        "tags":"flamingos, birds, nature",
+        "type":"photo",
+        "user":"Wildphoto1",
+        "userImageURL":"https://cdn.pixabay.com/user/2022/07/19/17-07-03-198_250x250.jpg",
+        "user_id":28677814,
+        "views":32583,
+        "webformatHeight":427,
+        "webformatURL":"https://pixabay.com/get/g22fe87c3b0915bc50e8cf3cf2c79dad7a31c4ca91cc099614f49f3f2b0aa56054d92907431363ee6b27bfd01582ff52ae04c1b6d60582df7c5a3e7712ff1b33a_640.jpg",
+        "webformatWidth":640
+    }
+    ]}

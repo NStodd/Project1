@@ -9,9 +9,15 @@
 
 
 ###### Description
-My project will help users in their coding and work life by giving them a motivational quote with a nice background image.
-The user will be able to cycle the quote, the image or both.
-The site will display on both desktop and mobile, adjusting to either one.
+_Do you remember Successories? Those old school motivational posters from the 90s?_
+
+This project is intended to let you make your own!
+
+It uses an image api ([Pixabay](https://pixabay.com/api/docs/)) and a quote api ([themotivate365](https://api.themotivate365.com/stoic-quote)). And puts them together in a nice, screenshottable, format.
+
+If you see a quote that you aren't crazy about, just hit the 'New Quote' button to get a new one!
+If you don't like the photo, do the same thing with the 'New Image' button!
+Or you can change both with 'New Combo
 
 
 ### Technologies Used
@@ -42,7 +48,7 @@ https://api.themotivate365.com/stoic-quote
 
 
 ### Link to Project
-[My Project Live Page]{https://projectone-sigma.vercel.app/}
+[My Project Live Page](https://projectone-sigma.vercel.app/)
 
 
 ##### Stretch Goals
