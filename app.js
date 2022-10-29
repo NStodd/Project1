@@ -1,5 +1,5 @@
 // CONSTANTS
-const QUOTE_URL = "https://api.goprogram.ai/inspiration"
+const QUOTE_URL = "https://api.themotivate365.com/stoic-quote"
 const IMG_URL = "https://pixabay.com/api/"
 const IMG_API_KEY = "30787297-8988965d9b3903eaa7f0d16eb"
 const IMG_KEYS = [
