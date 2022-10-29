@@ -44,6 +44,7 @@ input:hover {
   }
 
 .quote_div {
+    font-size: .5em;
     margin-right: auto;
     margin-left: auto;
     border-radius: 20px;
@@ -65,4 +66,20 @@ img {
     max-width: 85%;
     max-height: 100%;
     align-self: baseline;
+}
+
+@media screen and (max-width: 480px){
+    .img_div{
+        padding: 0px;
+    }
+    .flex-container {
+        flex-direction: column;
+        max-height: 1rem;
+        margin: 25px;
+        align-items: center;
+    }
+    .input{
+        margin: 0px;
+        max-width: 75%;
+    }
 }
