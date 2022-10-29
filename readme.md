@@ -20,6 +20,7 @@ The site will display on both desktop and mobile, adjusting to either one.
 - APIs:
 api.goprogram.ai/inspiration/docs
 https://pixabay.com/api/docs/
+https://api.themotivate365.com/stoic-quote
 - Google Fonts
 
 
