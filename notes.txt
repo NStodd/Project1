@@ -12,20 +12,15 @@ Where I'm At:
 - display the quote -
 - hook up a listener to retrieve a random new quote & refresh -
 - hook up a button to do both -
-
+- make sure I'm getting quote api data correctly-
+- formatting the height/width -
+- making responsive for mobile -
+- formatting buttons -
 
 Where I need to go next:
-- make sure I'm getting quote api data correctly
-- formatting the height/width
-- making responsive for mobile
-- formatting buttons
-- google font and font color
-- Heading?
-
 - credit pixabay somewhere
-- make it look nice on both desktop and mobile
-- refine the image search to make sure that it finds varied and good images
--         use the other search criteria from pixabay: 
+- google font and font color
+- refine the image search 
 
 
 
@@ -38,7 +33,8 @@ Where to go from there:
 - pull quotes from another api and let the user pick which type of quote they want
 - set an automatic refresh on either or both api element being displayed.
 - create a motivation_object Object.
-- 
+- change fonts for the quote
+
 
 
 

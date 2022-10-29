@@ -17,8 +17,10 @@ The site will display on both desktop and mobile, adjusting to either one.
 ### Technologies Used
 - HTML, CSS, & Javascript
 - Jquery & Ajax
-- APIs: api.goprogram.ai/inspiration/docs
-        https://pixabay.com/api/docs/
+- APIs:
+api.goprogram.ai/inspiration/docs
+https://pixabay.com/api/docs/
+- Google Fonts
 
 
 ##### Desktop Mockup

@@ -1,3 +1,12 @@
+html {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
 body {
     background-color: black;
     font-family: "Lucida Console", Monaco, monospace;
@@ -5,21 +14,15 @@ body {
     text-align: center;
     padding: 0;
     box-sizing: border-box;
-}
-
-h1 {
-    color: antiquewhite;
-    text-align: center;
-    grid-area: five;
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 div .flex-container {
     max-height: 100px;
-    margin: 50px;
+    margin: auto;
     padding: 10px;
 }
-
 
 .input {
     font-size: .6em;
@@ -27,11 +30,13 @@ div .flex-container {
     background-color: black;
     color: blanchedalmond;
     transition: color .3s, background-color .3s;
+    font-family: 'Zen Antique Soft';
+    border-radius: 10px;
 }
 
 input:hover {
-    background-color: blanchedalmond;
-    color: purple;
+    background-color: darkslategrey;
+    color: gold;
 }
 
 .img_div {
@@ -41,15 +46,18 @@ input:hover {
   }
 
 .quote_div {
-    margin: auto;
+    margin-right: auto;
+    margin-left: auto;
     border-radius: 20px;
     color: gold;
+    font-family: Cinzel;
 }
 
 .author_div {
     color: gold;
     text-align: right;
     margin: auto 20px;
+    font-family: Cinzel;
     
 }
 
@@ -59,10 +67,9 @@ input:hover {
 }
 
 img {
-    display: block;
     margin-left: auto;
     margin-right: auto;
     max-width: 100%;
     max-height: 100%;
-    grid-area: three;
+    align-self: baseline;
 }
