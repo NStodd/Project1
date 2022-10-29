@@ -1,11 +1,4 @@
-html {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-    max-height: 100%;
-}
+
 
 
 body {
@@ -19,20 +12,23 @@ body {
     margin-right: auto;
 }
 
-div .flex-container {
+.flex-container {
+    display: flex;
     max-height: 100px;
-    margin: auto;
-    padding: 10px;
+    background-color: black;
+    justify-content: right;
+    
 }
 
 .input {
-    font-size: .6em;
-    padding: 10px;
+    margin: 60px 5px 0px 5px;
+    padding: 3px;
     background-color: black;
-    color: blanchedalmond;
+    color: gold;
     transition: color .3s, background-color .3s;
     font-family: 'Zen Antique Soft';
     border-radius: 10px;
+    border-color: antiquewhite;
 }
 
 input:hover {
@@ -61,11 +57,6 @@ input:hover {
     margin: auto 20px;
     font-family: Cinzel;
     
-}
-
-.flex-container {
-    display: flex;
-    justify-content: space-around;
 }
 
 img {

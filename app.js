@@ -155,3 +155,16 @@ changeQuote()
 //         console.log(quote_obj)
 //     }
 // )
+
+
+
+
+// Deprecated from CSS
+// html {
+//     display: flex;
+//     flex-direction: column;
+//     justify-content: center;
+//     align-items: center;
+//     flex-wrap: wrap;
+    
+// }
