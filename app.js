@@ -20,7 +20,8 @@ const $HEADER = $()
 const $IMG_DIV = $('.img_div') //<img>
 const $QUOTE_DIV = $('.quote_div')
 const $BUTTON_DIV = $()
-const $FOOTER = $()
+const $AUTH_DIV = $('.author_div')
+
 
 // EVENT LISTENERS
 
@@ -97,6 +98,9 @@ function changeQuote () {
     quote.then((quote_obj) => {
         motivation_object.quote = quote_obj.quote
         motivation_object.author  = quote_obj.author
+
+        $AUTH_DIV.empty()
+        $AUTH_DIV.text(`-${motivation_object.author}`)
 
         $QUOTE_DIV.empty()
         $QUOTE_DIV.text(motivation_object.quote)

@@ -13,24 +13,30 @@
     <script src="app.js" defer></script>
 </head>
 <body>
-    <h1>This is My Project 1</h1>
     <main>
-      <form>
+      <div class="flex-container">
         <!-- button for changing the quote, [id: New Quote] -->
-        <input type="button" id="New_Quote" value="Generate Quote">
+        <input type="button" class="input" id="New_Quote" value="Generate Quote">
 
         <!-- button for changing the image, [id: New Image] -->
-        <input type="button" id="New_Image" value="Generate Image">
+        <input type="button" class="input" id="New_Image" value="Generate Image">
 
         <!-- button for changing both the image and the quote, [id: New Combo] -->
-        <input type="button" id="New_Combo" value="Generate Image & Quote">
-      </form>
+        <input type="button" class="input" id="New_Combo" value="Generate Image & Quote">
+      </div>
 
       <!-- need an adaptable area to paint the image -->
       <div class="img_div"></div>
 
       <!-- need a location/format/font for the quote -->
       <div class="quote_div"></div>
+
+      <!-- need a div for the author -->
+      <div class="author_div">-Yoda</div>
+
+
+
+      <h1></h1>
 
       <!-- need to be able to attribute Pixabay somewhere (see https://pixabay.com/api/docs/) -->
     </main>

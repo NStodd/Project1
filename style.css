@@ -3,40 +3,66 @@ body {
     font-family: "Lucida Console", Monaco, monospace;
     font-size: 1.5rem;
     text-align: center;
-    margin: 0;
     padding: 0;
-    max-height: 500px;
-    max-width: 500px;
     box-sizing: border-box;
-    display: grid;
-    grid-template-areas:
-    "one one one one one"
-    "two three three three four"
-    "two three three three four"
-    "two three three three four"
-    "two three three three four"
-    "two three three three four"
-    "five five five five five" ;
 }
 
 h1 {
     color: antiquewhite;
     text-align: center;
-    grid-area: one;
+    grid-area: five;
+    margin: auto;
 }
 
-form {
-
+div .flex-container {
+    max-height: 100px;
+    margin: 50px;
+    padding: 10px;
 }
 
-img {
+
+.input {
+    font-size: .6em;
+    padding: 10px;
+    background-color: black;
+    color: blanchedalmond;
+    transition: color .3s, background-color .3s;
+}
+
+input:hover {
+    background-color: blanchedalmond;
+    color: purple;
+}
+
+.img_div {
     margin: 40px 0px 0px 0px;
     border: 7px solid black;
-    border-radius: 20px;
-    grid-area: three;
+    border-radius: 20px;   
   }
 
 .quote_div {
-    color: aquamarine;
-    grid-area: five;
+    margin: auto;
+    border-radius: 20px;
+    color: gold;
+}
+
+.author_div {
+    color: gold;
+    text-align: right;
+    margin: auto 20px;
+    
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    max-height: 100%;
+    grid-area: three;
 }
