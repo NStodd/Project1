@@ -17,7 +17,7 @@ It uses an image api ([Pixabay](https://pixabay.com/api/docs/)) and a quote api 
 
 If you see a quote that you aren't crazy about, just hit the 'New Quote' button to get a new one!
 If you don't like the photo, do the same thing with the 'New Image' button!
-Or you can change both with 'New Combo
+Or you can change both with 'New Combo'!
 
 
 ### Technologies Used
@@ -52,10 +52,11 @@ https://api.themotivate365.com/stoic-quote
 
 
 ##### Stretch Goals
-- Allow the user to pick between motivational, zen or stoic quotes.
-- Allow the user to set an interval by which the site will give them a new one automatically.
-- Allow the user to select an input that the quote and/or image will take into account when creating their motivational scene.
+- Allow the user to pick between different types of quotes (motivational, zen, stoic, etc...).
+- Allow the user to set an interval of time by which the site will give them a new one automatically.
+- Allow the user to choose a word or phrase to influence the scene.
 - Allow the user to save or 'favorite' a quote/image combination.
+- Track what quotes/images are seen/favorited more frequently.
 - Add a keyword/title to resemble the old posters.
 - 
 

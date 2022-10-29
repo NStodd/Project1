@@ -21,6 +21,7 @@ Where I need to go next:
 - credit pixabay somewhere
 - google font and font color
 - refine the image search 
+- revisit the core layout
 
 
 
